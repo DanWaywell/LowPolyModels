@@ -1,3 +1,3 @@
 # LowPolyModels
 
-Collection of lowpoly models for game dev
+Collection of models for retro style games, game develpment, and/or whatever.
